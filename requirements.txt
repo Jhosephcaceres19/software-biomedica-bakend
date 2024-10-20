@@ -1,0 +1,5 @@
+@app.route('/api/data', methods=['POST'])
+def receive_data():
+    data = request.json  # Asumiendo que los datos se envían en formato JSON
+    print(data)  # Aquí puedes procesar los datos como necesites
+    return jsonify({"status": "datos recibidos", "data": data}), 200
