@@ -5,7 +5,7 @@ def receive_data():
     return jsonify({"status": "datos recibidos", "data": data}), 200
 
 
-Flask==2.0.3
+Flask==2.3.2
 Flask-Cors==3.0.10
 gunicorn==20.1.0
 google-api-python-client==2.31.0
