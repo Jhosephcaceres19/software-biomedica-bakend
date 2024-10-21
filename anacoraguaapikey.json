@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "dataloggeresp32-437721",
+  "private_key_id": "5f0a61b4d8c577b615ee975b13c6eba2d16e82af",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQC2jcI6chn2IhxH\nvgyDOei9sPC0hL9613hX3PdSDL1zQsTGTa9dDc3YLoVpCyjCcS/fOAdpbMRtEcR6\nJQYhSzssbm8k4XRCMoOdj2+jjKEWjKufmrdSevTbb6PqGyj+zlPTTD/lNbjrOGIp\n9agKkD4W6B75hEX8FqUx/u7wl0gPEZhZSe+I+nRwJGeN8bphcd/Kl4hty9ybADrA\nmc6vkUydIXGAke6YTr4ShiRqi8TNxRGCMccSVwAW3dDxX4WE34WE05y8/bzgnqNu\nwyyDlJSB12DBnbzkcMgfOKSMEHY96CMR9RErLVJHOG8bK0Ql2kv3Fm3UEoIPpUex\nomJ3sdfBAgMBAAECggEACvmxNJAD7+XeGxFvMXvg+nfxs3tgWGjYSI61jzPKjMGg\nu1FpWn1deQKsV66UPUMj1ID1r8jFHc+Z0e7O6bUwXLv+UlJ8Xwx9bZLK7KN5qIro\nOJjLLm92Wt5hQE5wuQe7nMeyobuzSe+3tdEZ+29E+bNBRXwb3wuXfqQr8RVkqi8p\nIITerElEyEJeUHpQhn43sX74RFyezCwM6LXRLdnadvyqqk05r3z95wuEwMrj6Epn\nhnUn6WLJjJr3uSEdRNueH/Rqm5GBD/4dUT8h1+Z2xsiiGE8bBI1oVdHkGPB7L5wu\ncjvAtHhUMQzYMEsNZfnlLzy/LTf5ETcfT0eykJ4chwKBgQDcs7y81H5jg5Zc9J/H\n8D6spL2uyObbkYthdUu0TaOaFJHjAw0uBqRiKYppGrQ45nPl/f4FZV2cqF6jftov\n/4VTM28RBKOTZC9ZpnTKUy0u2IHrPFaflLJoBKQfuQu1pnePNy5TDnSjeLDDyR0t\n2agHejwJExPBKLf9foblbjXWBwKBgQDTwBqFZKukic85nbVJ8HbQBPbww22FcQKD\nw28oxhHYNLH4kdyjak16XmG9ZHYTYTz5x1EygegT3qXhIa9KdLHE2LGp0FzkqM9R\ncoOcf80cI/lei8XU7C3aT90x/D+6UNs/M6ffyR9AiSM9W4Z3sEnBWB2wOJDut3am\nSvObE68x9wKBgQCPHNn5VI10eEKLmnD11Jq/lsANU+cnYBSSqN3jWCkLY+VJ4JOu\nUc5MfQVsrE1LTFzBOdd7pkRyrldYC4zubPIGhqax0WFE1UVDDAZVoGP/KZPtdx3w\nsxqRCtlmXLb0HrMOokiewRPvYPa2rnYGYkpsNt4xQDaiHYZZka9lnPa6BwKBgCWC\nPPBuIb12r9974TYkw1cb2gZSB9+AYjqm7tThKR4MT45BgDzuQqUvfM7IseXC7sMs\nHGT+//YtFWMozV06CJde7zGueBYFFRxPVaLuPI4EjVLDHZsW7xRh20PUdBFz6zJp\n2w3YGZIb+MMQqGQhNR9rlW62xm2S0BCq7DYHKZyHAoGBAKScgThnhWdgZwzLniG/\nTblmvItLsYiKo2ehaa2zRZSjIXeRz9iFgotvlKoy2rXn0UpLTgPwsmz2fWtPz95Z\n8dq/XSjf/eF7br+t0BpXDnZjOKJRdi4kvxVL8JJQI6NGNs4t90XR4fyokn7CybFQ\nxo3ACIAYvXcEQp+ORE3rxv/O\n-----END PRIVATE KEY-----\n",
+  "client_email": "anacoragua@dataloggeresp32-437721.iam.gserviceaccount.com",
+  "client_id": "107721992150183045977",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/anacoragua%40dataloggeresp32-437721.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
