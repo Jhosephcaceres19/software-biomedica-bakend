@@ -4,7 +4,8 @@ from googleapiclient.discovery import build
 from google.oauth2 import service_account
 
 app = Flask(__name__)
-CORS(app)
+CORS(app, resources={r"/*": {"origins": "*"}})
+
 
 # API Key de Google y ID de la hoja
 # API_KEY = "AIzaSyDpb07gNzQKMk1DOGdHZQ4vIpUwZGU_-jg"
